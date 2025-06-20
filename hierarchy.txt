@@ -1,0 +1,65 @@
+- Portfolio: Manufacturing Portfolio
+  - Pillar: Integrated Solutions and Sales GTM
+    - Programme: Target Manufacturers
+      - Project: Team Structures
+
+- Portfolio: WEF - Advanced Manufacturing and  Production
+  - Pillar: Accelerating Sustainability
+    - Programme: Circular Economy-AS
+      - Project: Circular Economy-AS
+
+- Portfolio: Manufacturing Portfolio
+  - Pillar: Integrated Solutions and Sales GTM
+    - Programme: Target Manufacturers
+      - Project: Market Intelligence and Insight - Go to Markets
+
+- Portfolio: Manufacturing Portfolio
+  - Pillar: Industry leading Tech and Innovation
+    - Programme: 
+      - Project: Strategy - Innovation Frameworks
+
+- Portfolio: Manufacturing Portfolio
+  - Pillar: Industry leading Tech and Innovation
+    - Programme: 
+      - Project: Innovation Challenge - Innovation Frameworks
+
+- Portfolio: Manufacturing Portfolio
+  - Pillar: Cost Excellence
+    - Programme: Develop Analytic Cost Excellence
+      - Project: Benefits Realisation - Governances
+
+- Portfolio: Manufacturing Portfolio
+  - Pillar: Cost Excellence
+    - Programme: Develop Analytic Cost Excellence
+      - Project: Cross Functional Representation & Ownership - Governances
+
+- Portfolio: 
+  - Pillar: 
+    - Programme: 
+      - Project: 
+
+- Portfolio: Just In Time
+  - Pillar: Standardise or Stabilize Current State 
+    - Programme: Levelise Volume
+      - Project: Levelise Volume
+
+- Portfolio: Testing submodule for version 4.8
+  - Pillar: plant pillar 2
+    - Programme: plant programme 3
+      - Project: 
+
+- Portfolio: WEF - Advanced Manufacturing and  Production
+  - Pillar: Accelerating Sustainability
+    - Programme: Climate Change
+      - Project: Climate Change
+
+- Portfolio: Organisational Change Management Portfolio
+  - Pillar: Organisational Change Management OCM
+    - Programme: OCM Projects 
+      - Project: LeanFlow Transformation
+
+- Portfolio: Building Materials Portfolio
+  - Pillar: Sustainable Manufacturing Excellence
+    - Programme: Lean Automation and Process Optimization
+      - Project: Lean Automation
+
